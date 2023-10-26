@@ -1,0 +1,16 @@
+body {
+    background-color:darkolivegreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+.head1 {
+    background-color:lightgrey;
+}
+
+#head2 {
+    background-color: rgb(66, 104, 109);
+    color: azure;
+}
