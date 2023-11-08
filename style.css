@@ -14,3 +14,9 @@ h1 {
     background-color: rgb(66, 104, 109);
     color: azure;
 }
+
+.nav-bar {
+    background-color: darkgrey;
+    color:darkolivegreen;
+    text-align:center;
+}
