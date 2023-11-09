@@ -15,13 +15,13 @@ h1 {
     color: azure;
 }
 
-div .nav-bar {
+div.nav-bar {
     background-color: darkgrey;
     color:darkolivegreen;
     text-align:center;
 }
 
-div .content {
+div.content {
     background-color: beige;
     color: black;
     text-align:center;
