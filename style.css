@@ -26,3 +26,7 @@ div.content {
     color: black;
     text-align:center;
 }
+
+div.footer {
+    padding:20px;
+    font-weight:700;
