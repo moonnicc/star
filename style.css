@@ -15,7 +15,7 @@ h1 {
     color:#bfaeb0;
 }
 
-.nav-bar {
+.nav-bar a {
     background-color: darkgrey;
     color:#725a68 !important;
     text-align:right;
