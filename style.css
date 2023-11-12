@@ -1,5 +1,5 @@
 body {
-    background-color:#725a68;
+    background-color:#bfaeb0;
 }
 
 h1 {
@@ -55,3 +55,6 @@ h1 + p{
     font-style:bold;
     color:#bfaeb0;
 }
+
+h2.content {
+    background-color:#b6ada4;
