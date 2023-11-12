@@ -19,8 +19,7 @@ h1 {
     background-color: darkgrey;
     color:#725a68;
     text-align:center;
-    padding:10px;
-    border-radius:10px;
+    padding:0;
 }
 
 .content {
