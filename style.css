@@ -19,7 +19,7 @@ h1 {
     background-color: darkgrey;
     color:#725a68 !important;
     text-align:center;
-    padding:30px;
+    padding:20px;
 }
 
 .content {
@@ -59,3 +59,8 @@ h1 + p{
 
 h2.content {
     background-color:#b6ada4;
+}
+
+h2 a {
+    color:#d3cac1;
+}
