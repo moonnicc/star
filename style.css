@@ -1,5 +1,5 @@
 body {
-    background-color:#BFAEB0;
+    background-color: #BFAEB0;
 }
 
 h1 {
@@ -22,8 +22,8 @@ h1 {
 }
 
 .content {
-    background-color: beige;
-    color: black;
+    background-color: #725a68;
+    color: #bfaeb0;
     text-align:center;
 }
 
