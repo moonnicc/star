@@ -30,3 +30,9 @@ h1 {
 .footer {
     padding:20px;
     font-style:italic;
+}
+
+h1.content {
+    color:#5B4E48; 
+}
+
