@@ -33,11 +33,17 @@ h1 {
 }
 
 h1.content {
-    color:#5B4E48; 
+    color:#5b4e48; 
 }
 
 p a {
-    color:#D3CAC1;
+    color:#d3cac1;
+    background-color:#5b4e48;
     padding:10px;
     font-style:italic;
 }
+
+div > h1 {
+    color:#d3bcc9;
+    background-color:#725a68;
+    padding:10px;
