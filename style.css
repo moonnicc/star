@@ -1,4 +1,4 @@
-body {
+3body {
     background-color:#756a6b;
 }
 
@@ -63,4 +63,9 @@ h2.content {
 
 h2 a {
     color:#d3cac1;
+}
+
+img {
+    width:70px;
+    height:40px;
 }
