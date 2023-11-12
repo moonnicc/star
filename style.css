@@ -36,3 +36,8 @@ h1.content {
     color:#5B4E48; 
 }
 
+p a {
+    color:#D3CAC1;
+    padding:10px;
+    font-style:italic;
+}
