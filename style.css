@@ -15,18 +15,18 @@ h1 {
     color: azure;
 }
 
-div.nav-bar {
+.nav-bar {
     background-color: darkgrey;
     color:darkolivegreen;
     text-align:center;
 }
 
-div.content {
+.content {
     background-color: beige;
     color: black;
     text-align:center;
 }
 
-div.footer {
+.footer {
     padding:20px;
-    font-weight:700;
+    font-style:italic;
