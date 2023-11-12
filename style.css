@@ -44,7 +44,7 @@ p a {
     font-style:italic;
 }
 
-div > h1 {
+p > h1 {
     color:#d3bcc9;
     background-color:#5b4e48;
     padding:10px;
