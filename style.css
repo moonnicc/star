@@ -18,8 +18,8 @@ h1 {
 .nav-bar {
     background-color: darkgrey;
     color:#725a68;
-    text-align:center;
-    padding:50px;
+    text-align:right;
+    padding-bottom:30px;
 }
 
 .content {
