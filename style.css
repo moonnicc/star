@@ -22,7 +22,7 @@ h1 {
 }
 
 .content {
-    background-color:#725a68;
+    background-color:#887a71;
     color:#bfaeb0;
     text-align:center;
 }
@@ -30,6 +30,7 @@ h1 {
 .footer {
     padding:20px;
     font-style:italic;
+    color:#d3bcbf;
 }
 
 h1.content {
