@@ -69,3 +69,23 @@ img {
     width:560px;
     height:300px;
 }
+
+footer:hover {
+    color:#ebe5e7; 
+}
+
+a:link {
+    color:#887a71;
+}
+
+a:visited {
+    color:#ebe5e7;
+}
+
+a:hover {
+    color:#62161e;
+}
+
+a:active {
+    color:#7a7c57;
+}
