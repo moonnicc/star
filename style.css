@@ -111,6 +111,7 @@ p.qwerty::after {
     color:#887a71;
     font-weight:bold;
     visibility: visible;
+    opacity: 0.5;
 }
 
 .not-visible {
