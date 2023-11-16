@@ -119,3 +119,8 @@ p.qwerty::after {
     font-weight:bold;
     visibility: hidden; 
 }
+.inline {
+    color:#887a71;
+    font-weight:bold;
+    display:inline;
+}
