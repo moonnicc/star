@@ -93,7 +93,7 @@ p::first-line {
     color:#1e1d1b;
 }
 p::first-letter {
-    text-weight:bold;
+    font-weight:bold;
 }
 
 p::before {
@@ -104,5 +104,5 @@ p::before {
 p::after {
     content:'SEE YA';
     color:#887a71;
-    text-style:italic;
+    font-style:italic;
 }
