@@ -89,19 +89,19 @@ a:active {
     color:#7a7c57;
 }
 
-qwerty::first-line {
+h1 + p::first-line {
     color:#ebe5e7;
 }
-qwerty::first-letter {
+h1 + p::first-letter {
     text-weight:bold;
 }
 
-qwerty::before {
+h1 + p::before {
     content:'HII';
     color:#887a71;
 }
 
-qwerty::after {
+h1 + p::after {
     content:'SEE YA';
     color:#887a71;
     text-style:italic;
