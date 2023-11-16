@@ -106,3 +106,15 @@ p.qwerty::after {
     color:#887a71;
     font-style:italic;
 }
+
+.visible {
+    color:#887a71;
+    font-weight:bold;
+    visibility: visible;
+}
+
+.not-visible {
+   color:#887a71;
+    font-weight:bold;
+    visibility: hidden; 
+}
