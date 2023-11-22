@@ -124,3 +124,8 @@ p.qwerty::after {
     font-weight:bold;
     display:inline;
 }
+.nav-bar {
+    padding:10px;
+    margin-top:5px;
+}
+
