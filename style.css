@@ -130,5 +130,6 @@ p.qwerty::after {
     margin-top:5px;
     text-align:center;
     padding:20px;
+    background-color: darkgrey;
 }
 
