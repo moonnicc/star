@@ -64,7 +64,7 @@ p + img {
     width:560px;
     height:300px;
     filter:blur(2px);
-    filter:brightness(05);
+    filter:brightness(20%);
     transition: height 2s, width 2s, brightness 2s;
 }
 
