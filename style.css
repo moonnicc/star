@@ -60,16 +60,16 @@ h2 a {
     color:#d3cac1;
 }
 
-p + #image {
+p + img {
     width:560px;
     height:300px;
     filter:blur(2px);
-    filter:brightness(0);
+    filter:brightness(05);
     transition: height 2s, width 2s, brightness 2s;
 }
 
 #image:hover{
-    brightness(0.5);
+    brightness(75%);
     height:400px;
     width:500px;
 }
