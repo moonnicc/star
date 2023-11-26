@@ -67,7 +67,7 @@ h2 a {
 img {
     width:560px;
     height:300px;
-    filter: blur(2px) opacity(0.8%);
+    filter: blur(2px), opacity(0.8%);
 }
 
 footer:hover {
