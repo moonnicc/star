@@ -129,7 +129,8 @@ p.qwerty::after {
 .nav-bar {
     margin-top:5px;
     text-align:center;
-    padding:20px;
+    padding:0px;
     background-color: darkgrey;
+    border-width:100px;
 }
 
