@@ -64,8 +64,8 @@ h2 a {
     width:560px;
     height:300px;
     filter:blur(2px);
-    filter:brightness(0.5);
-    transition: height 2s, width 2s;
+    filter:brightness(0);
+    transition: height 2s, width 2s, brightness 2s;
 }
 
 #image:hover{
