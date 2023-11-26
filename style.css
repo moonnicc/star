@@ -123,8 +123,8 @@ p.qwerty::after {
 }
 
 .nav-bar {
-    margin-top:5px;
-    text-align:left;
+    margin-top:2px;
+    text-align:center;
     padding:0px;
     background-color: darkgrey;
     border:1px solid white;
