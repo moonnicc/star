@@ -68,7 +68,7 @@ p + img {
     transition: height 2s, width 2s, brightness 2s;
 }
 
-#image:hover{
+img:hover{
     filter:brightness(75%);
     height:400px;
     width:500px;
