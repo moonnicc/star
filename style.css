@@ -60,7 +60,7 @@ h2 a {
     color:#d3cac1;
 }
 
-#image {
+p + #image {
     width:560px;
     height:300px;
     filter:blur(2px);
