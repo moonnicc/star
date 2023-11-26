@@ -64,7 +64,13 @@ h2 a {
     width:560px;
     height:300px;
     filter:blur(2px);
-    filter:sepia(40%);
+    transition: height 2s, width 2s;
+}
+
+#image:hover{
+    brightness(0.5);
+    height:400px;
+    width:500px;
 }
 
 footer:hover {
