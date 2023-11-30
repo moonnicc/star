@@ -64,17 +64,12 @@ p + img {
     width:560px;
     height:300px;
     filter:blur(2px);
-    opacity:0.1;
     transition: height 2s, width 2s, opacity 2s;
 }
 
 @keyframes opacity-animation {
-    from{
-        opacity:0.1;
-    }
-    to{
-        opacity:1;
-    }
+    from{ opacity:0.1; }
+    to{ opacity:1; }
 }
 
 img {
